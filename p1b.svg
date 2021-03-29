@@ -3,10 +3,8 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="300px"
 	 height="300px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
 <style type="text/css">
-	.st0{display:none;}
-	.st1{display:inline;}
-	.st2{font-family:'MyriadPro-Regular';}
-	.st3{font-size:61.6306px;}
+	.st0{font-family:'MyriadPro-Regular';}
+	.st1{font-size:61.6306px;}
 </style>
 <g id="Layer_1">
 	
@@ -207,7 +205,7 @@ hWzlY9kHRYbRrancqD8Z9Aq88pc6lwFbsIJ1tia3VA5gB4fHGsUU9AreiQ/pFYwp1VjAnVX0FHNX
 pz0Ct6Zz0CsWc9NewW5zW7At9ZF63EVeYAeJzM0e8Tci+BPNWzEgQDiAt/5Q/wD/2Q==" transform="matrix(0.4643 0 0 0.4643 -1 -2)">
 	</image>
 </g>
-<g id="title" class="st0">
-	<text transform="matrix(0.333 0 0 1 58.2949 84.5938)" class="st1 st2 st3">Where should I move?</text>
+<g id="title">
+	<text transform="matrix(0.333 0 0 1 58.2949 84.5938)" class="st0 st1">Where should I move?</text>
 </g>
 </svg>
